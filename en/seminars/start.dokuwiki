@@ -1,6 +1,54 @@
-{{indexmenu_n>5000}}
+{{indexmenu_n>6000}}
 
-====== Seminars  ======
+====== Seminars ======
 
-{{indexmenu>.#1 | tsort msort}}
+/*{{indexmenu>.#1 | tsort msort}}*/
+
+===== 2. Reprezentace čísel se znaménkem a operace. =====
+  * Převody s operacemi ve dvojkové soustavě.
+  * Princip návrhu sčítačky v přímém kódu.
+  * Návrh sčítačky v inverzním kódu na bázi polovičních sčítaček.
+  * Sčítačka v přímém kódu jako kombinační obvod. 
+  * Návrh sčítačky v aditivním kódu typu 0.
+
+===== 4. Násobení a dělení s čísly se znaménkem. =====
+  * Posuv D(X) o 2 místa vlevo a vpravo pro z=2, pro z=16 a pro z=10.
+  * Posuv I(X) o 2 místa vlevo a vpravo pro z=2 a pro z=10.
+  * Rozšíření řádové mřížky pro A1(X) o 4 místa vlevo a vpravo pro z=2.
+  * Násobení čísel bez znaménka Boothovou metodou pro z=4 a pro z=2.  
+  * Násobení v doplňkovém kódu pro z=2 Boothovou metodou.
+  * Násobení v doplňkovém kódu pro z=2 jiným způsobem.
+  * Násobení v doplňkovém kódu pro z=4 Boothovou metodou.
+  * Dělení celých čísel v doplňkovém kódu (pro z=2).
+
+===== 6. Realizace operací v pohyblivé řádové čárce. =====
+
+  * Reprezentace čísel podle IEEE Std 754-2008
+  * Základní aritmetické operace v pohyblivé řádové čárce (bez použití normalizace a s jejím použitím)
+  * Použití bitů G, R a S pro operace a zaokrouhlování
+
+Řešené příklady: 
+{{:tutorials:cv6_1-mi-ari.pdf|1 fólie}},
+{{:tutorials:cv6_4-mi-ari.pdf|4 fólie}} nebo
+{{:tutorials:cv6_6-mi-ari.pdf|6 fólií}}
+na stránce
+
+===== 8. Test. Nekonvenční aplikace číselných soustav. =====
+
+===== 10. Přenosy ve sčítačkách. Návrh jednotky pro výpočet hodnoty jedné funkce. =====
+
+Sčítačka s podmíněnými součty - řešené příklady:
+{{:tutorials:cv-CSA-1-ARI.pdf|1 fólie}},
+{{:tutorials:cv-CSA-4-ARI.pdf|4 fólie}},
+{{:tutorials:cv-CSA-6-ARI.pdf|6 fólií}}
+na stránce
+
+Druhá odmocnina - postup bez návratu - 
+{{:tutorials:cv-sqrt-1-ari.pdf|řešený příklad}}
+
+===== 12. Operace v nestandardních číselných soustavách. =====
+
+  * soustava o základu -2 (soustava polská)\\ a) sečíst 1+1\\ b) najít číslo opačné k číslu 101 <sub>-2</sub>
+  * soustava s relativními číslicemi o základu 2 \\ a) sečíst 1+1\\ b) najít všechny reprezentace  čísla opačného k číslu 101
+  * soustava zbytkových tříd (soustava česká)\\ základy: 13,7,3\\ A ... (12,1,0)\\ a) převést do desítkové soustavy\\ b)převést do soustavy o několika základech
 
