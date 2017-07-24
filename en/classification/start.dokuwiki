@@ -2,21 +2,44 @@
 
 ====== Classification ======
 
-<note>
-Zde by měly být popsány složky hodnocení jako je např. docházka, testy v semestru, zkoušková písemka apod. Zejména by zde měly být uvedeny podmínky (bodové hodnocení) - maximální možný výsledek, výsledek nutný pro úspěšné absolvování a minimální možný výsledek (typicky 0, nic apod.).
 
-Tato poznámka by zde neměla být, až na stránky budou vpuštěni studenti!
-</note>
+===== Assessment =====
+
+==== Tests ====
+
+^     Test     ^  to be held:  ^   week   ^       test topic        ^  evaluation  ^
+| Test 1 | during lecture |  half of the semester  | All study materials from seminars and lectures  |  maximum \\ 50 points  |
+
+
+=== Alternative and correction tests ===
+
+If there exist serious reasons preventing you from writing a test at the scheduled time you can write alternative test. You have also the possibility to repeat your tests if you want to repair its evaluation; in such a case the result of the former test is ignored and the new result is taken. By the end of the semester one common term will be announced for all alternative and correction tests. \\
+
+
+==== Necessary conditions to get assessment ====
+
+In order to get assessment, the student has to obtain at least 25 points; the maximum number of points that can be obtained for tests is 50:   
+| Test | 50 points |
+
+
+
+===== Exam ===== 
+
+Prior to sit for the exam the student has to get assessment. All points that he has obtained for the test are included into the total evaluation. The exam itself is written and it represents at the most 50 points. Minimum of exam test is 20.  
+
+\\
+==== Test requirements ====
+
 
 
 ===== Evaluation scale =====
 
 Evaluation scale is according to [[http://www.cvut.cz/pracoviste/pravni-odbor/documents/studyandexaminationcode.pdf|The Study and Examination Code for Students of CTU in Prague]].
 
-^ Grade  ^ Points    ^ Evaluation in words ^
-| A      | more than    | excellent           |
-| B      |           | very good      |
-| C      |           | good           |
-| D      |           | satisfactory       |
-| E      |           | sufficient       |
-| F      | less than  | failed     |
+^ Grade  ^ Points       ^ Evaluation in words ^
+|  A     | more than 89 | excellent           |
+|  B     | 80 – 89      | very good           |
+|  C     | 70 – 79      | good                |
+|  D     | 60 – 69      | satisfactory        |
+|  E     | 50 – 59      | sufficient          |
+|  F     | less than    | failed              |
