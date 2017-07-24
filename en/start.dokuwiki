@@ -1,15 +1,55 @@
 ~~NOTOC~~
 
-====== MI-ARI - Počítačová aritmetika ======
+====== MIE-ARI - Computer arithmetics ======
+//**Official web page**//\\
 
-//**Official web page**//
+//Teacher:// [[pavel.kubalik@fit.cvut.cz|Ing. Pavel Kubalík, Ph.D.]]
+/*[[Pluhacek@fit.cvut.cz|doc. Ing. Alois Pluháček, CSc.]]*/
 
-  * teachers: [[:en:teacher:start]]
 
-===== News =====
+  * ** Login is necessary for getting access to slides  !**
 
-{{blog>:en:news?10}}
+~~NOTOC~~
 
-===== Note =====
 
-  * **Login is required in order to access course materials!**
+===== Lectures =====
+  - Introduction and recapitulation.
+  - Number systems and basic operations
+  - Decimal codes.
+  - Multiplication I.
+  - Division I.
+  - Floating point.
+  - Problem with carry and its accelerating.
+  - Multiplication II.
+  - Division II.
+  - Elementar functions I.
+  - Elementar functions II.
+  - Non standard number system.
+
+ 
+
+===== Seminars =====
+  - Number systems and basic operations. 
+  - Multiplication and division of signed numbers.
+  - Realization of floating point operations.
+  - Non-standard application of number systems.
+  - Carry in adders. Design of unit used for one function value calculation.
+  - Operations in non-standard number systems.
+
+
+
+
+
+/*{{blog>:news?10}}*/
+
+
+
+
+===== Recommended bibliography =====
+
+  * Parhami, B.: Computer Arithmetic: Algorithms and Hardware Designs. Oxford University Press, 1999. ISBN 0195125835. 
+  * Koren, I.: Computer Arithmetic Algorithms (2nd edition). A K Peters, 2001. ISBN 1568811608. 
+  * Muller, J. M.: Elementary Functions: Algorithms and Implementation (2nd edition). Birkhäuser Boston, 2005. ISBN 0817643729. 
+
+
+ 
