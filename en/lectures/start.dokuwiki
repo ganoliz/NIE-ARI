@@ -9,10 +9,10 @@
 
 ^  No.  ^  Topic  ^  Materials^
 |  1  |Introduction and recapitulation.          |    |
-|  2  |Number systems and basic operations.      |    |
-|  3  |Decimal codes.                            |    |
-|  4  |Multiplication I.                         |    |
-|  5  |Division I.                               |    |
+|  2  |Number systems and basic operations.      |  {{:en:lectures:ari_cs_en.pdf|pdf}}  |
+|  3  |Decimal codes.                            |  {{:en:lectures:ari_dk_en.pdf|pdf}}  |
+|  4  |Multiplication I.                         |  {{:en:lectures:ari_n1_en.pdf|pdf}}  |
+|  5  |Division I.                               |  {{:en:lectures:ari_d1_en.pdf|pdf}}  |
 |  6  |Floating point.                           |    |
 |  7  |Problem with carry and its accelerating.  |    |
 |  8  |Multiplication II.                        |    |
