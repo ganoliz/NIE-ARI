@@ -7,18 +7,19 @@
 
 /*{{indexmenu>.#1 | tsort msort}}*/
 
-|    ^Téma  ^  Počet fólií na stránce  |||  Kam ? ((Kam jsme až došli na poslední přednášce.)) ^
-^  1.|CS. Reprezentace čísel a základní operace.  |  {{:lectures:1-ari_CS.pdf|1}}  |  {{:lectures:4-ari_CS.pdf|4}}  |  {{:lectures:6-ari_CS.pdf|6}}  |  |
-^  2.|DK. Desítkové kódy.  |  {{:lectures:1-ari_DK.pdf|1}}  |  {{:lectures:4-ari_DK.pdf|4}}  |  {{:lectures:6-ari_DK.pdf|6}}  |  |
-^  3.|N1. Násobení I.  |  {{:lectures:1-ari_N1.pdf|1}}  |  {{:lectures:4-ari_N1.pdf|4}}  |  {{:lectures:6-ari_N1.pdf|6}}  |  |
-^  4.|D1. Dělení I. ((Viz též "podpůrný materiál" {{:lectures:deleni_-_ik.pdf| }}.))  |  {{:lectures:1-ari_D1.pdf|1}}  |  {{:lectures:4-ari_D1.pdf|4}}  |  {{:lectures:6-ari_D1.pdf|6}}  |  |
-^  5.|FP. Pohyblivá řádová čárka.  |  {{:lectures:1-ari_FP.pdf|1}}  |  {{:lectures:4-ari_FP.pdf|4}}  |  {{:lectures:6-ari_FP.pdf|6}}  |  |
-^  6.|PR. Problém přenosů a jejich zrychlování  |  {{:lectures:1-ari_PR.pdf|1}}  |  {{:lectures:4-ari_PR.pdf|4}}  |  {{:lectures:6-ari_PR.pdf|6}}  |  |
-^  7.|N2. Násobení II.  |  {{:lectures:1-ari_N2.pdf|1}}  |  {{:lectures:4-ari_N2.pdf|4}}  |  {{:lectures:6-ari_N2.pdf|6}}  |  |
-^  8.|D2. Dělení II.  |  {{:lectures:1-ari_D2.pdf|1}}  |  {{:lectures:4-ari_D2.pdf|4}}  |  {{:lectures:6-ari_D2.pdf|6}}  |  |
-^  9.|F1. Elementární funkce I.  |  {{:lectures:1-ari_F1.pdf|1}}  |  {{:lectures:4-ari_F1.pdf|4}}  |  {{:lectures:6-ari_F1.pdf|6}}  |  |
-^  10.|F2. Elementární funkce II.  |  {{:lectures:1-ari_F2.pdf|1}}  |  {{:lectures:4-ari_F2.pdf|4}}  |  {{:lectures:6-ari_F2.pdf|6}}  |  |
-^  11.|NS. Nestandardní číselné soustavy.  |  {{:lectures:1-ari_NS.pdf|1}}  |  {{:lectures:4-ari_NS.pdf|4}}  |  {{:lectures:6-ari_NS.pdf|6}}  |  NS-15  |
+^  No.  ^  Topic  ^  Materials^
+|  1  |Introduction and recapitulation.          |    |
+|  2  |Number systems and basic operations.      |    |
+|  3  |Decimal codes.                            |    |
+|  4  |Multiplication I.                         |    |
+|  5  |Division I.                               |    |
+|  6  |Floating point.                           |    |
+|  7  |Problem with carry and its accelerating.  |    |
+|  8  |Multiplication II.                        |    |
+|  9  |Division II.                              |    |
+|  10  |Elementar functions I.                   |    |
+|  11  |Elementar functions II.                  |    |
+|  12  |Non standard number system.              |    |
 
 {{indexmenu_n>4000}}
 
