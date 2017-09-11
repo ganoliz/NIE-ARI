@@ -4,51 +4,47 @@
 
 /*{{indexmenu>.#1 | tsort msort}}*/
 
-===== 2. Reprezentace čísel se znaménkem a operace. =====
-  * Převody s operacemi ve dvojkové soustavě.
-  * Princip návrhu sčítačky v přímém kódu.
-  * Návrh sčítačky v inverzním kódu na bázi polovičních sčítaček.
-  * Sčítačka v přímém kódu jako kombinační obvod. 
-  * Návrh sčítačky v aditivním kódu typu 0.
+===== 2. Signed number system representation and operations. =====
+  * Binary number system and convertions.
+  * Sign and magnitude code - design principles of adders.
+  * Diminished radix complement - design principles of adders based on half-adder.
+  * Adder in sign and magnitude code as combination circuit. 
+  * Design of adder in biased code type 0.
 
-===== 4. Násobení a dělení s čísly se znaménkem. =====
-  * Posuv D(X) o 2 místa vlevo a vpravo pro z=2, pro z=16 a pro z=10.
-  * Posuv I(X) o 2 místa vlevo a vpravo pro z=2 a pro z=10.
-  * Rozšíření řádové mřížky pro A1(X) o 4 místa vlevo a vpravo pro z=2.
-  * Násobení čísel bez znaménka Boothovou metodou pro z=4 a pro z=2.  
-  * Násobení v doplňkovém kódu pro z=2 Boothovou metodou.
-  * Násobení v doplňkovém kódu pro z=2 jiným způsobem.
-  * Násobení v doplňkovém kódu pro z=4 Boothovou metodou.
-  * Dělení celých čísel v doplňkovém kódu (pro z=2).
+===== 4. Multiplication and division with sign numbers. =====
+  * Shift D(X) by 2 places to the left and to the right for z=2, for z=16 and for z=10.
+  * Shift I(X) by 2 places to the left and to the right for z=2 and for z=10.
+  * Number format extension for A1(X) by 4 places to the left and to the right for z=2.
+  * Multiplication of unsigned numbers using signed-digit number system (Booth's method) for z=4 and for z=2.  
+  * Multiplication in 2's complement code for z=2 using signed-digit number system (Booth's method).
+  * Multiplication in 2's complement code for z=2 another way.
+  * Multiplication in 2's complement code for z=4 using signed-digit number system (Booth's method).
+  * Division of integers in 2's complement code (for z=2).
 
-===== 6. Realizace operací v pohyblivé řádové čárce. =====
+===== 6. Design of floating point operations. =====
 
-  * Reprezentace čísel podle IEEE Std 754-2008
-  * Základní aritmetické operace v pohyblivé řádové čárce (bez použití normalizace a s jejím použitím)
-  * Použití bitů G, R a S pro operace a zaokrouhlování
+  * Number representation by IEEE Std 754-2008
+  * Basic arithmetic operations for floating point numbers(without normalization and its using)
+  * Using of bits G, R and S for operations and rounding
 
-Řešené příklady: 
-{{:tutorials:cv6_1-mi-ari.pdf|1 fólie}},
-{{:tutorials:cv6_4-mi-ari.pdf|4 fólie}} nebo
-{{:tutorials:cv6_6-mi-ari.pdf|6 fólií}}
-na stránce
+Solved examples: 
+{{:tutorials:cv6_1-mi-ari.pdf|pdf}}
 
-===== 8. Test. Nekonvenční aplikace číselných soustav. =====
 
-===== 10. Přenosy ve sčítačkách. Návrh jednotky pro výpočet hodnoty jedné funkce. =====
+===== 8. Test. Non-standard number systems. =====
 
-Sčítačka s podmíněnými součty - řešené příklady:
-{{:tutorials:cv-CSA-1-ARI.pdf|1 fólie}},
-{{:tutorials:cv-CSA-4-ARI.pdf|4 fólie}},
-{{:tutorials:cv-CSA-6-ARI.pdf|6 fólií}}
-na stránce
+===== 10. Carry in adders. Unit design to calculate the value of one function. =====
 
-Druhá odmocnina - postup bez návratu - 
-{{:tutorials:cv-sqrt-1-ari.pdf|řešený příklad}}
+Conditional sum adder - solved examples:
+{{:tutorials:cv-CSA-1-ARI.pdf|pdf}}
 
-===== 12. Operace v nestandardních číselných soustavách. =====
 
-  * soustava o základu -2 (soustava polská)\\ a) sečíst 1+1\\ b) najít číslo opačné k číslu 101 <sub>-2</sub>
-  * soustava s relativními číslicemi o základu 2 \\ a) sečíst 1+1\\ b) najít všechny reprezentace  čísla opačného k číslu 101
-  * soustava zbytkových tříd (soustava česká)\\ základy: 13,7,3\\ A ... (12,1,0)\\ a) převést do desítkové soustavy\\ b)převést do soustavy o několika základech
+Square root - solution without restoring - solved example
+{{:tutorials:cv-sqrt-1-ari.pdf|pdf}}
+
+===== 12. Operations in non-standard number systems. =====
+
+  * negative radix based system with z=-2 (Polish system )\\ a) add 1+1\\ b) find out opposite number to the number 101 <sub>-2</sub>
+  * sign-digit number system with z=2 \\ a) add 1+1\\ b) find out all representations to the opposite number 101
+  * residue number system (Czech system)\\ bases: 13,7,3\\ A ... (12,1,0)\\ a) convert to the deciaml system\\ b)convert to the system on several bases
 
