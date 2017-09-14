@@ -28,19 +28,19 @@
   * Using of bits G, R and S for operations and rounding
 
 Solved examples: 
-{{:tutorials:cv6_1-mi-ari.pdf|pdf}}
+{{:en:seminars:ari_float_examples.pdf|pdf}}
 
 
-===== 8. Test. Non-standard number systems. =====
+===== 8. Non-standard number systems. =====
 
 ===== 10. Carry in adders. Unit design to calculate the value of one function. =====
 
 Conditional sum adder - solved examples:
-{{:tutorials:cv-CSA-1-ARI.pdf|pdf}}
+{{:en:seminars:ari_conditional_sum_adder_all.pdf|pdf}}
 
 
 Square root - solution without restoring - solved example
-{{:tutorials:cv-sqrt-1-ari.pdf|pdf}}
+{{:en:seminars:ari_square_root.pdf|pdf}}
 
 ===== 12. Operations in non-standard number systems. =====
 
