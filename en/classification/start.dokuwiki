@@ -30,6 +30,22 @@ Prior to sit for the exam the student has to get assessment. All points that he 
 \\
 ==== Test requirements ====
 
+===== Requirements for Exam ===== 
+
+**There can be everything from seminars.**\\
+
+  * **Lecture 1:** Binary system - basic principles
+  * **Lecture 2:** Number systems and basic operations - addition and subtraction of unsigned numbers; signed number representation (sign and magnitude code, radix complement code, biased code type 0 and 1, diminished radix complement code) definitions, conversions, addition, subtraction, shifts, format extension
+  * **Lecture 3:** Decimal codes - realization, adder in BCD code, advantages and disadvantages
+  * **Lecture 4:** Multiplication - multiplication of unsigned numbers (basic scheme), signed-number digit system (for z=2 and z=4), 2's complement code multiplication
+  * **Lecture 5:** Division - division of unsigned numbers, basic methods, basic principle of division with restoring and non-restoring
+  * **Lecture 6:** Floating point - basic format, addition, subtraction, multiplication, division; problem with overflow and rounding, normalized form, GRS bits, hidden one
+  * **Lecture 7:** Non standard radix system - examples of used systems, advantages and disadvantages
+  * **Lecture 8:** Elementary functions - Basic principles
+  * **Lecture 9:** Problems with carry and its accelerating - Ripple carry adder, carry skip adder, carry look-ahead adder (basic scheme, basic principle, Gi, Pi, expressions for Ci)
+  * **Lecture 10:** Multiplication II - Principle of skip 0's and 1's, basic principle of parallel multiplication
+  * **Lecture 11:** Division II - Principle of skip 0's and 1's, basic principle of SRT methods, basic principle of fraction extension, Newtons method
+
 
 
 ===== Evaluation scale =====
