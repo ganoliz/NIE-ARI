@@ -1,108 +1,94 @@
-{{indexmenu_n>6000}}
-{{indexmenu_n>6000}}
-
-====== Seminars ======
-
-===== 1. Signed number system representation and operations =====
-
-  * Conversions between different number systems using operations in binary system.
-  * Negative and positive number representation and zeroes in different codes.
-  * Design of adder and subtractor in 2's complement code also for unsigned numbers.
-  * Design of adder and subtractor in 1's complement code based on half-adders.
-  * Use and subtractor in 1's complement code to subtract unsigned numbers.
-  * Design of adder-subtractor in sign and magnitude code as an combination circuit. \\ //** Additional assignment:**//
-  * Design of adder-subtractor in biased code type 0.
-  * Design of adder-subtractor in biased code type 1.
+= Seminars 
+:imagesdir: ../media/seminars
 
 
-===== 2. Shifts and operations in decimal number system =====
-
-  * Shift D(X) by 4 places to the left and right for z=2.
-  * Shift D(X) by 1 place to the left and right for z=16.
-  * Shift D(X) by 1 place to the left and right for z=10.
-  * Overflow detection circuit used for left shift by 1 place to the left and right if z=10, \\ a) if BCD code is used and \\ b) if +3 code is used.
-  * Radix format extension for D(X) by 4 places to the left for z=2 and integers.
-  * Radix format extension for D(X) by 1 place to the left for z=16 and integers.
-  * Radix format extension for D(X) by 2 places to the left for z=10.
-  * Radix format extension for A<sub>1</sub>(X) by 2 places to the left for z=2 and integers.
-  * Design 1-positional decimal adder in Rubinoffs code (8,4,-2,-1).
+== 1. Signed number system representation and operations
 
 
-===== 3. Realization of multiplication =====
-
-  * Shift D(X) by 2 places to the left and to the right for z=2, for z=16 and for z=10.
-  * Shift I(X) by 2 places to the left and to the right for z=2 and for z=10.
-  * Number format extension for A1(X) by 4 places to the left and to the right for z=2.
-  * Multiplication of unsigned numbers using signed-digit number system (Booth's method) for z=4 and for z=2.  
-  * Multiplication in 2's complement code for z=2 using signed-digit number system (Booth's method).
-  * Multiplication in 2's complement code for z=2 another way.
-  * Multiplication in 2's complement code for z=4 using signed-digit number system (Booth's method).
-
-===== 4. Realization of division =====
-
-  * Division of integers in 2's complement code (for z=2).
-  * Design divisor in 2's complement code if A<1 and B<1 (for z=2).
-  * Design divisor in 2's complement code if A and B are integers (for z=2).
-
-===== 5. Non-standard number system =====
-
-  * negative radix based system with z=-2 (Polish system )\\ a) add 1+1\\ b) find out opposite number to the number 101 <sub>-2</sub>
-  * sign-digit number system with z=2 \\ a) add 1+1\\ b) find out all representations to the opposite number 101
-  * residue number system (Czech system)\\ bases: 13,7,3\\ A ... (12,1,0)\\ a) convert to the deciaml system\\ b)convert to the system on several bases
-
-===== 6. Design of floating point operations =====
-
-  * Number representation by IEEE Std 754-2008
-  * Basic arithmetic operations for floating point numbers(without normalization and its using)
-  * Using of bits G, R and S for operations and rounding
-
-Solved examples: 
-{{:en:seminars:ari_float_examples.pdf|pdf}}
-
-/*
-
-===== 2. Signed number system representation and operations. =====
-  * Binary number system and convertions.
-  * Sign and magnitude code - design principles of adders.
-  * Diminished radix complement - design principles of adders based on half-adder.
-  * Adder in sign and magnitude code as combination circuit. 
-  * Design of adder in biased code type 0.
-
-===== 4. Multiplication and division with sign numbers. =====
-  * Shift D(X) by 2 places to the left and to the right for z=2, for z=16 and for z=10.
-  * Shift I(X) by 2 places to the left and to the right for z=2 and for z=10.
-  * Number format extension for A1(X) by 4 places to the left and to the right for z=2.
-  * Multiplication of unsigned numbers using signed-digit number system (Booth's method) for z=4 and for z=2.  
-  * Multiplication in 2's complement code for z=2 using signed-digit number system (Booth's method).
-  * Multiplication in 2's complement code for z=2 another way.
-  * Multiplication in 2's complement code for z=4 using signed-digit number system (Booth's method).
-  * Division of integers in 2's complement code (for z=2).
-
-===== 6. Design of floating point operations. =====
-
-  * Number representation by IEEE Std 754-2008
-  * Basic arithmetic operations for floating point numbers(without normalization and its using)
-  * Using of bits G, R and S for operations and rounding
-
-Solved examples: 
-{{:en:seminars:ari_float_examples.pdf|pdf}}
+* Conversions between different number systems using operations in binary system.
+* Negative and positive number representation and zeroes in different codes.
+* Design of adder and subtractor in 2's complement code also for unsigned numbers.
+* Design of adder and subtractor in 1's complement code based on half-adders.
+* Use and subtractor in 1's complement code to subtract unsigned numbers.
+* Design of adder-subtractor in sign and magnitude code as an combination circuit.
++
+_** Additional assignment:**_
++
+* Design of adder-subtractor in biased code type 0.
+* Design of adder-subtractor in biased code type 1.
 
 
-===== 8. Non-standard number systems. =====
-
-===== 10. Carry in adders. Unit design to calculate the value of one function. =====
-
-Conditional sum adder - solved examples:
-{{:en:seminars:ari_conditional_sum_adder_all.pdf|pdf}}
+== 2. Shifts and operations in decimal number system
 
 
-Square root - solution without restoring - solved example
-{{:en:seminars:ari_square_root.pdf|pdf}}
+* Shift D(X) by 4 places to the left and right for z=2.
+* Shift D(X) by 1 place to the left and right for z=16.
+* Shift D(X) by 1 place to the left and right for z=10.
+* Overflow detection circuit used for left shift by 1 place to the left and right if z=10,
++
+a) if BCD code is used and
++
+b) if +3 code is used.
++
+* Radix format extension for D(X) by 4 places to the left for z=2 and integers.
+* Radix format extension for D(X) by 1 place to the left for z=16 and integers.
+* Radix format extension for D(X) by 2 places to the left for z=10.
+* Radix format extension for A~1~(X) by 2 places to the left for z=2 and integers.
+* Design 1-positional decimal adder in Rubinoffs code (8,4,-2,-1).
 
-===== 12. Operations in non-standard number systems. =====
 
-  * negative radix based system with z=-2 (Polish system )\\ a) add 1+1\\ b) find out opposite number to the number 101 <sub>-2</sub>
-  * sign-digit number system with z=2 \\ a) add 1+1\\ b) find out all representations to the opposite number 101
-  * residue number system (Czech system)\\ bases: 13,7,3\\ A ... (12,1,0)\\ a) convert to the deciaml system\\ b)convert to the system on several bases
+== 3. Realization of multiplication
 
-*/
+
+* Shift D(X) by 2 places to the left and to the right for z=2, for z=16 and for z=10.
+* Shift I(X) by 2 places to the left and to the right for z=2 and for z=10.
+* Number format extension for A1(X) by 4 places to the left and to the right for z=2.
+* Multiplication of unsigned numbers using signed-digit number system (Booth's method) for z=4 and for z=2.
+* Multiplication in 2's complement code for z=2 using signed-digit number system (Booth's method).
+* Multiplication in 2's complement code for z=2 another way.
+* Multiplication in 2's complement code for z=4 using signed-digit number system (Booth's method).
+
+
+== 4. Realization of division
+
+
+* Division of integers in 2's complement code (for z=2).
+* Design divisor in 2's complement code if A<1 and B<1 (for z=2).
+* Design divisor in 2's complement code if A and B are integers (for z=2).
+
+
+== 5. Non-standard number system
+
+
+* negative radix based system with z=-2 (Polish system )
++
+a) add 1+1
++
+b) find out opposite number to the number 101 ~-2~
++
+* sign-digit number system with z=2
++
+a) add 1+1
++
+b) find out all representations to the opposite number 101
++
+* residue number system (Czech system)
++
+bases: 13,7,3
++
+A ... (12,1,0)
++
+a) convert to the deciaml system
++
+b)convert to the system on several bases
+
+
+== 6. Design of floating point operations
+
+
+* Number representation by IEEE Std 754-2008
+* Basic arithmetic operations for floating point numbers(without normalization and its using)
+* Using of bits G, R and S for operations and rounding
+
+Solved examples:
+link:{imagesdir}/ari-float-examples.pdf[pdf]

@@ -1,61 +1,76 @@
-{{indexmenu_n>2000}}
-
-====== Classification ======
-
-
-===== Assessment =====
-
-==== Tests ====
-
-^     Test     ^  to be held:  ^   week   ^       test topic        ^  evaluation  ^
-| Test 1 | during lecture |  half of the semester  | All study materials from seminars and lectures  |  maximum \\ 50 points  |
+= Classification 
+:imagesdir: ../media/classification
 
 
-=== Alternative and correction tests ===
-
-If there exist serious reasons preventing you from writing a test at the scheduled time you can write alternative test. You have also the possibility to repeat your tests if you want to repair its evaluation; in such a case the result of the former test is ignored and the new result is taken. By the end of the semester one common term will be announced for all alternative and correction tests. \\
+== Assessment
 
 
-==== Necessary conditions to get assessment ====
-
-In order to get assessment, the student has to obtain at least 25 points; the maximum number of points that can be obtained for tests is 50:   
-| Test | 50 points |
+=== Tests
 
 
-
-===== Exam ===== 
-
-Prior to sit for the exam the student has to get assessment. All points that he has obtained for the test are included into the total evaluation. The exam itself is written and it represents at the most 50 points. Minimum of exam test is 20.  
-
-\\
-==== Test requirements ====
-
-===== Requirements for Exam ===== 
-
-**There can be everything from seminars.**\\
-
-  * **Lecture 1:** Binary system - basic principles
-  * **Lecture 2:** Number systems and basic operations - addition and subtraction of unsigned numbers; signed number representation (sign and magnitude code, radix complement code, biased code type 0 and 1, diminished radix complement code) definitions, conversions, addition, subtraction, shifts, format extension
-  * **Lecture 3:** Decimal codes - realization, adder in BCD code, advantages and disadvantages
-  * **Lecture 4:** Multiplication - multiplication of unsigned numbers (basic scheme), signed-number digit system (for z=2 and z=4), 2's complement code multiplication
-  * **Lecture 5:** Division - division of unsigned numbers, basic methods, basic principle of division with restoring and non-restoring
-  * **Lecture 6:** Floating point - basic format, addition, subtraction, multiplication, division; problem with overflow and rounding, normalized form, GRS bits, hidden one
-  * **Lecture 7:** Non standard radix system - examples of used systems, advantages and disadvantages
-  * **Lecture 8:** Elementary functions - Basic principles
-  * **Lecture 9:** Problems with carry and its accelerating - Ripple carry adder, carry skip adder, carry look-ahead adder (basic scheme, basic principle, Gi, Pi, expressions for Ci)
-  * **Lecture 10:** Multiplication II - Principle of skip 0's and 1's, basic principle of parallel multiplication
-  * **Lecture 11:** Division II - Principle of skip 0's and 1's, basic principle of SRT methods, basic principle of fraction extension, Newtons method
+[options="autowidth"]
+|====
+^h|     Test      ^h|  to be held:   ^h|   week    ^h|       test topic         ^h|  evaluation
+| Test 1  | during lecture  ^|  half of the semester   | All study materials from seminars and lectures   ^|  maximum +
+50 points
+|====
 
 
+==== Alternative and correction tests
 
-===== Evaluation scale =====
 
-Evaluation scale is according to [[http://www.cvut.cz/pracoviste/pravni-odbor/documents/studyandexaminationcode.pdf|The Study and Examination Code for Students of CTU in Prague]].
+If there exist serious reasons preventing you from writing a test at the scheduled time you can write alternative test. You have also the possibility to repeat your tests if you want to repair its evaluation; in such a case the result of the former test is ignored and the new result is taken. By the end of the semester one common term will be announced for all alternative and correction tests.  +
 
-^ Grade  ^ Points       ^ Evaluation in words ^
-|  A     | more than 89 | excellent           |
-|  B     | 80 – 89      | very good           |
-|  C     | 70 – 79      | good                |
-|  D     | 60 – 69      | satisfactory        |
-|  E     | 50 – 59      | sufficient          |
-|  F     | less than    | failed              |
+
+=== Necessary conditions to get assessment
+
+
+In order to get assessment, the student has to obtain at least 25 points; the maximum number of points that can be obtained for tests is 50:
+[options="autowidth"]
+|====
+| Test  | 50 points
+|====
+
+
+== Exam
+
+
+Prior to sit for the exam the student has to get assessment. All points that he has obtained for the test are included into the total evaluation. The exam itself is written and it represents at the most 50 points. Minimum of exam test is 20.
+
+
+=== Test requirements
+
+
+== Requirements for Exam
+
+
+*There can be everything from seminars.* +
+
+* *Lecture 1:* Binary system - basic principles
+* *Lecture 2:* Number systems and basic operations - addition and subtraction of unsigned numbers; signed number representation (sign and magnitude code, radix complement code, biased code type 0 and 1, diminished radix complement code) definitions, conversions, addition, subtraction, shifts, format extension
+* *Lecture 3:* Decimal codes - realization, adder in BCD code, advantages and disadvantages
+* *Lecture 4:* Multiplication - multiplication of unsigned numbers (basic scheme), signed-number digit system (for z=2 and z=4), 2's complement code multiplication
+* *Lecture 5:* Division - division of unsigned numbers, basic methods, basic principle of division with restoring and non-restoring
+* *Lecture 6:* Floating point - basic format, addition, subtraction, multiplication, division; problem with overflow and rounding, normalized form, GRS bits, hidden one
+* *Lecture 7:* Non standard radix system - examples of used systems, advantages and disadvantages
+* *Lecture 8:* Elementary functions - Basic principles
+* *Lecture 9:* Problems with carry and its accelerating - Ripple carry adder, carry skip adder, carry look-ahead adder (basic scheme, basic principle, Gi, Pi, expressions for Ci)
+* *Lecture 10:* Multiplication II - Principle of skip 0's and 1's, basic principle of parallel multiplication
+* *Lecture 11:* Division II - Principle of skip 0's and 1's, basic principle of SRT methods, basic principle of fraction extension, Newtons method
+
+
+== Evaluation scale
+
+
+Evaluation scale is according to http://www.cvut.cz/pracoviste/pravni-odbor/documents/studyandexaminationcode.pdf[The Study and Examination Code for Students of CTU in Prague].
+
+[options="autowidth"]
+|====
+<h| Grade   <h| Points        <h| Evaluation in words
+^|  A      | more than 89  | excellent
+^|  B      | 80 – 89       | very good
+^|  C      | 70 – 79       | good
+^|  D      | 60 – 69       | satisfactory
+^|  E      | 50 – 59       | sufficient
+^|  F      | less than     | failed
+|====

@@ -1,28 +1,22 @@
-{{indexmenu_n>4000}}
+= Lectures 
+:imagesdir: ../media/lectures
 
-====== Lectures ======
 
-/*<note>Stránka se připravuje.</note>
-<note>Stránka se upravuje.</note>*/
+[options="autowidth"]
+|====
+^h|  No.   ^h|  Topic   >h|  Materials
+^|  01   | Introduction and recapitulation.           ^|
+^|  02   | Number systems and basic operations.       ^|  link:{imagesdir}/ari-cs-en.pdf[pdf]
+^|  03   | Decimal codes.                             ^|  link:{imagesdir}/ari-dk-en.pdf[pdf]
+^|  04   | Multiplication I.                          ^|  link:{imagesdir}/ari-n1-en.pdf[pdf]
+^|  05   | Division I.                                ^|  link:{imagesdir}/ari-d1-en.pdf[pdf]
+^|  06   | Floating point.                            ^|  link:{imagesdir}/ari-fp-en.pdf[pdf]
+^|  07   | Non standard number system.                ^|  link:{imagesdir}/ari-ns-en.pdf[pdf]
+^|  08   | Elementar functions                        ^|  link:{imagesdir}/ari-f1-en.pdf[pdf], link:{imagesdir}/ari-f2-en.pdf[pdf]
+^|  09   | Problem with carry and its accelerating.   ^|  link:{imagesdir}/ari-pr-en.pdf[pdf]
+^|  10   | Multiplication II.                         ^|  link:{imagesdir}/ari-n2-en.pdf[pdf]
+^|  11   | Division II.                               ^|  link:{imagesdir}/ari-d2-en.pdf[pdf]
+|====
 
-/*{{indexmenu>.#1 | tsort msort}}*/
 
-^  No.  ^  Topic  ^  Materials^
-|  01  |Introduction and recapitulation.          |    |
-|  02  |Number systems and basic operations.      |  {{:en:lectures:ari_cs_en.pdf|pdf}}  |
-|  03  |Decimal codes.                            |  {{:en:lectures:ari_dk_en.pdf|pdf}}  |
-|  04  |Multiplication I.                         |  {{:en:lectures:ari_n1_en.pdf|pdf}}  |
-|  05  |Division I.                               |  {{:en:lectures:ari_d1_en.pdf|pdf}}  |
-|  06  |Floating point.                           |  {{:en:lectures:ari_fp_en.pdf|pdf}}  |
-|  07  |Non standard number system.               |  {{:en:lectures:ari_ns_en.pdf|pdf}}  |
-|  08  |Elementar functions                       |  {{:en:lectures:ari_f1_en.pdf|pdf}}, {{:en:lectures:ari_f2_en.pdf|pdf}}  |
-|  09  |Problem with carry and its accelerating.  |  {{:en:lectures:ari_pr_en.pdf|pdf}}  |
-|  10  |Multiplication II.                        |  {{:en:lectures:ari_n2_en.pdf|pdf}}  |
-|  11  |Division II.                              |  {{:en:lectures:ari_d2_en.pdf|pdf}}  |
-
-{{indexmenu_n>4000}}
-
-====== Lectures ======
-
-/*{{indexmenu>.#1 | tsort msort}}*/
-
+= Lectures
