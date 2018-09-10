@@ -1,0 +1,11 @@
+course:
+  code: MIE-ARI
+  name: Computer Arithmetic
+semester: B171
+language: en
+navigation:
+  hiddenFiles:
+    - media/*
+    - README.*
+repository:
+  gitlabPath: /edux-export/MIE-ARI
