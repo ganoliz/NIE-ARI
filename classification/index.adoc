@@ -7,29 +7,31 @@
 
 === Tests
 
+There is no test during the semester.
 
-[options="autowidth"]
-|====
-^h|     Test      ^h|  to be held:   ^h|   week    ^h|       test topic         ^h|  evaluation
-| Test 1  | during lecture  ^|  half of the semester   | All study materials from seminars and lectures   ^|  maximum +
-50 points
-|====
-
-
-==== Alternative and correction tests
+//[options="autowidth"]
+//|====
+//^h|     Test      ^h|  to be held:   ^h|   week    ^h|       test topic         ^h|  evaluation
+//| Test 1  | during lecture  ^|  half of the semester   | All study materials from seminars and lectures   ^|  maximum +
+//50 points
+//|====
 
 
-If there exist serious reasons preventing you from writing a test at the scheduled time you can write alternative test. You have also the possibility to repeat your tests if you want to repair its evaluation; in such a case the result of the former test is ignored and the new result is taken. By the end of the semester one common term will be announced for all alternative and correction tests.  +
+//==== Alternative and correction tests
+
+
+//If there exist serious reasons preventing you from writing a test at the scheduled time you can write alternative test. You have also the possibility to repeat your tests if you want to repair its evaluation; in such a case the result of the former test is ignored and the new result is taken. By the end of the semester one common term will be announced for all alternative and correction tests.  +
 
 
 === Necessary conditions to get assessment
 
+The aim is to obtain points from 5 homework. Each homework is evaluated with 10 points. To get an assessment, the student has to obtain at least 25 points; the maximum number of points that can be obtained for homework is 50.
 
-In order to get assessment, the student has to obtain at least 25 points; the maximum number of points that can be obtained for tests is 50:
-[options="autowidth"]
-|====
-| Test  | 50 points
-|====
+//In order to get assessment, the student has to obtain at least 25 points; the maximum number of points that can be obtained for tests is 50:
+//[options="autowidth"]
+//|====
+//| Test  | 50 points
+//|====
 
 
 == Exam
