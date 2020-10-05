@@ -38,6 +38,7 @@ b) if +3 code is used.
 * Radix format extension for A~1~(X) by 2 places to the left for z=2 and integers.
 * Design 1-positional decimal adder in Rubinoffs code (8,4,-2,-1).
 
+_** Homework 2:**_
 
 == 3. Realization of multiplication
 
@@ -50,6 +51,7 @@ b) if +3 code is used.
 * Multiplication in 2's complement code for z=2 another way.
 * Multiplication in 2's complement code for z=4 using signed-digit number system (Booth's method).
 
+_** Homework 3:**_
 
 == 4. Realization of division
 
@@ -94,3 +96,5 @@ b)convert to the system on several bases
 
 Solved examples:
 link:{imagesdir}/ari-float-examples.pdf[pdf]
+
+_** Homework 5:**_
