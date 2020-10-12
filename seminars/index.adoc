@@ -19,7 +19,7 @@ _** Additional assignment:**_
 
 _** Homework 1:**_ link:{imagesdir}/MIE_ARI_Homework_1.pdf[pdf]
 
-_** Homework 2:**_
+_** Homework 2:**_ link:{imagesdir}/MIE_ARI_Homework_2.pdf[pdf]
 
 
 == 2. Shifts and operations in decimal number system
