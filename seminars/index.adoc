@@ -40,7 +40,7 @@ b) if +3 code is used.
 * Radix format extension for A~1~(X) by 2 places to the left for z=2 and integers.
 * Design 1-positional decimal adder in Rubinoffs code (8,4,-2,-1).
 
-_** Homework 3:**_
+_** Homework 3:**_ link:{imagesdir}/MIE_ARI_Homework_3.pdf[pdf]
 
 == 3. Realization of multiplication
 
