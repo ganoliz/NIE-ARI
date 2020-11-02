@@ -53,7 +53,7 @@ _** Homework 3:**_ link:{imagesdir}/MIE_ARI_Homework_3.pdf[pdf]
 * Multiplication in 2's complement code for z=2 another way.
 * Multiplication in 2's complement code for z=4 using signed-digit number system (Booth's method).
 
-_** Homework 4:**_
+_** Homework 4:**_ link:{imagesdir}/MIE_ARI_Homework_4.pdf[pdf]
 
 == 4. Realization of division
 
