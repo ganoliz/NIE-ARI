@@ -8,17 +8,19 @@ _Teacher:_ mailto:pavel.kubalik@fit.cvut.cz[Ing. Pavel Kubalík, Ph.D.]
 == Lectures
 
 . Introduction and recapitulation.
-. Number systems and basic operations.
+. Unsigned number systems and basic operations.
+. Negative number systems
 . Decimal codes.
 . Multiplication I.
 . Division I.
 . Floating point.
+. Non standard number system.
+. Elementar functions
 . Problem with carry and its accelerating.
 . Multiplication II.
 . Division II.
-. Elementar functions I.
-. Elementar functions II.
-. Non standard number system.
+
+
 
 == Seminars
 
