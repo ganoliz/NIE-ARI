@@ -99,4 +99,4 @@ b)convert to the system on several bases
 Solved examples:
 link:{imagesdir}/ari-float-examples.pdf[pdf]
 
-_** Homework 5:**_
+_** Homework 5:**_ link:{imagesdir}/MIE_ARI_Homework_5.pdf[pdf]
