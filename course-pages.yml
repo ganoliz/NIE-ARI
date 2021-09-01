@@ -1,5 +1,6 @@
 course:
-  code: MIE-ARI
+  code: NIE-ARI
+  altCodes: [MIE-ARI]
   name: Computer Arithmetic
 language: en
 navigation:
@@ -7,4 +8,4 @@ navigation:
     - media/*
     - README.*
 repository:
-  gitlabPath: /MI-ARI/mie-ari
+  gitlabPath: /NI-ARI/nie-ari
