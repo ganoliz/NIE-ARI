@@ -5,7 +5,7 @@
 [options="autowidth"]
 |====
 ^h|  No.   ^h|  Topic   >h|  Materials
-^|  01   | Introduction and recapitulation.           ^|  link:{imagesdir}/ari-introduction-en.pdf[pdf]
+^|  01   | Introduction and recapitulation.           ^|  link:{imagesdir}/Introduction-NIE-ARI.pdf[pdf]
 ^|  02   | Number systems and basic operations.       ^|  link:{imagesdir}/ari-cs-en.pdf[pdf]
 ^|  03   | Decimal codes.                             ^|  link:{imagesdir}/ari-dk-en.pdf[pdf]
 ^|  04   | Multiplication I.                          ^|  link:{imagesdir}/ari-n1-en.pdf[pdf]
