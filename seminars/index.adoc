@@ -96,7 +96,8 @@ b)convert to the system on several bases
 * Basic arithmetic operations for floating point numbers(without normalization and its using)
 * Using of bits G, R and S for operations and rounding
 
-Solved examples:
-link:{imagesdir}/ari-float-examples.pdf[pdf]
-
 _** Homework 5:**_ link:{imagesdir}/MIE_ARI_Homework_5.pdf[pdf]
+
+Solved examples (solution of homework 5):
+//link:{imagesdir}/ari-float-examples.pdf[pdf]
+
