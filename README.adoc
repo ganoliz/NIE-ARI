@@ -1,1 +1,39 @@
-include::index.adoc[]
+= MIE-ARI
+:imagesdir: media
+
+_Teacher:_ mailto:pavel.kubalik@fit.cvut.cz[Ing. Pavel Kubalík, Ph.D.]
+
+* ** Login is necessary for getting access to slides  !**
+
+== Lectures
+
+. Introduction and recapitulation.
+. Unsigned number systems and basic operations.
+. Negative number systems
+. Decimal codes.
+. Multiplication I.
+. Division I.
+. Floating point.
+. Non standard number system.
+. Elementar functions
+. Problem with carry and its accelerating.
+. Multiplication II.
+. Division II.
+
+
+
+== Seminars
+
+. Number systems and basic operations.
+. Multiplication and division of signed numbers.
+. Realization of floating point operations.
+. Non-standard application of number systems.
+. Carry in adders. Design of unit used for one function value calculation.
+. Operations in non-standard number systems.
+
+== Recommended bibliography
+
+* Parhami, B.: Computer Arithmetic: Algorithms and Hardware Designs. Oxford University Press, 1999. ISBN 0195125835.
+* Koren, I.: Computer Arithmetic Algorithms (2nd edition). A K Peters, 2001. ISBN 1568811608.
+* Muller, J. M.: Elementary Functions: Algorithms and Implementation (2nd edition). Birkhäuser Boston, 2005. ISBN 0817643729.
+
